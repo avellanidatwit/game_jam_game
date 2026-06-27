@@ -1,0 +1,26 @@
+{
+  "npc_id": "detective_voss",
+  "player": {
+    "name": "Player"
+  },
+  "npc_memory": {
+    "known_facts": [],
+    "important_events": [],
+    "current_mood": "cautiously neutral",
+    "relationship": {
+      "trust": 45,
+      "suspicion": 25,
+      "respect": 50
+    }
+  },
+  "hidden_state": {
+    "case_progress": 0,
+    "clues_found": 0,
+    "suspects_identified": 0,
+    "partner_bond": 0,
+    "player_in_danger": false,
+    "voss_shared_theory": false,
+    "tragic_past_revealed": false
+  },
+  "recent_conversation": []
+}
